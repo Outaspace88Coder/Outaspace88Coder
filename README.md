@@ -11,6 +11,7 @@
 
 
 ### Connect with me :
+[<img align="left" alt="Outaspace88Coder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-benedict-hautebas-outaspace88-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benedict-hautebas-outaspace88/)
 
 <br />
@@ -32,7 +33,9 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Outaspace88Coder&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=outaspace88coder&show_icons=true&hide_border=true" />
+
+[linkedin]: https://www.linkedin.com/in/benedict-hautebas-outaspace88/
 
 <!--
 **Outaspace88Coder/Outaspace88Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
