@@ -12,9 +12,10 @@
 
 ### Connect with me :
 [<img align="left" alt="Outaspace88Coder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-benedict-hautebas-outaspace88-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benedict-hautebas-outaspace88/)
+
 
 <br />
+
 
 ### Languages and Tools :
 ![](https://img.shields.io/badge/Basics-Algorithm-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -33,21 +34,7 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=outaspace88coder&show_icons=true&hide_border=true" />
-
 [linkedin]: https://www.linkedin.com/in/benedict-hautebas-outaspace88/
 
-<!--
-**Outaspace88Coder/Outaspace88Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=outaspace88coder&show_icons=true&hide_border=true" />
