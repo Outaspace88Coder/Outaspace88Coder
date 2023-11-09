@@ -1,7 +1,7 @@
 # Hi there, I'm Benedict - aka Outaspace88 👋
 
 
-## I'm a developer Student at [ENI school] (https://www.eni-ecole.fr), Cycling enthusiast, and Permaculture learner !
+## I'm a developer Student at [ENI school][ENI], Cycling enthusiast, and Permaculture learner !
 - 🌱 I’m currently learning Web & Mobile Web Development (Full Stack)
 - 👯 I'm looking to collaborate on projects with my school workgroup 
 - 🤔 I'm always eager to learn
@@ -33,4 +33,5 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
+[ENI]: https://www.eni-ecole.fr/
 [linkedin]: https://www.linkedin.com/in/benedict-hautebas-outaspace88/
