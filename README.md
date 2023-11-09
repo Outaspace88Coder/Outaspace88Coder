@@ -34,6 +34,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/benedict-hautebas-outaspace88/
-
-
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benedicthautebas&show_icons=true&hide_border=true" />
