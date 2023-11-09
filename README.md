@@ -2,7 +2,6 @@
 
 
 ## I'm a developer Student at [ENI school] (https://www.eni-ecole.fr), Cycling enthusiast, and Permaculture learner !
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web & Mobile Web Development (Full Stack)
 - 👯 I'm looking to collaborate on projects with my school workgroup 
 - 🤔 I'm always eager to learn
@@ -37,4 +36,4 @@
 [linkedin]: https://www.linkedin.com/in/benedict-hautebas-outaspace88/
 
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=outaspace88coder&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benedicthautebas&show_icons=true&hide_border=true" />
